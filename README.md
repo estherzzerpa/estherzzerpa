@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @estherzzerpa
+- 👋 Hi, I’m Esther Zerpa
 - 👀 I’m interested in the programming, JavaScriptlanguage, web design  and clothes
 - 🌱 I’m currently learning JavaScript, after I"ll learn web design
 - 📫 How to reach me, on Instagram merwester.op
